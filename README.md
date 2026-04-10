@@ -1,3 +1,4 @@
-# 643-Project.github.io
+# 643-Project
 Webpage for CPS643 Final Project
+
 Hello
