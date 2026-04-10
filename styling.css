@@ -1,0 +1,87 @@
+body {
+	font-family: 'Titillium Web', serif;
+	background: #8cbdd4;
+	background: linear-gradient(90deg, rgba(140, 189, 212, 1) 0%, rgba(87, 199, 133, 1) 50%, rgba(237, 221, 83, 1) 100%);
+}
+
+#b1 {
+	padding-left: 20px;
+}
+
+#bio {
+	font-size: 38px;
+}
+
+#box1 {
+	font-family: 'Titillium Web', serif;
+	display: inline-block;
+	background-image: url("eduback.png");
+	background-size: cover;
+	background-position: center;
+	width: 300px;
+    margin-right: 80px;
+    padding: 35px;
+    border: 8px;
+	border-style: groove;
+	border-color: #00FFD5;
+}
+
+#box2 {
+	font-family: 'Titillium Web', serif;
+	display: inline-block;
+	background-image: url("skills.jpg");
+	background-size: cover;
+	background-position: center;
+    width: 300px;
+	margin-left: 85.5px;
+    margin-right: 85.5px;
+    padding: 35px;
+    border: 8px;
+	border-style: groove;
+	border-color: #00FFD5;
+}
+
+#box3 {
+	font-family: 'Titillium Web', serif;
+	display: inline-block;
+	background-image: url("hobby.jpg");
+	background-size: cover;
+	background-position: center;
+    width: 300px;
+	margin-left: 80px;
+    padding: 35px;
+    border: 8px;
+	border-style: groove;
+	border-color: #00FFD5;
+}
+
+
+.container1 {
+	font-family: 'Titillium Web', serif;
+	padding-top: 25px;
+	padding-right: 16px;
+	padding-bottom: 25px;
+	padding-left: 16px;
+	background-color: #ADD8E6;
+}
+
+.button {
+    padding: 1px 6px;
+    border: 1px outset buttonborder;
+    border-radius: 3px;
+    color: buttontext;
+    background-color: buttonface;
+    text-decoration: none;
+	transition-duration: 0.4s;
+	cursor: pointer;
+}
+
+.btn:hover {
+	background-color: #B700FA;
+	color: white;
+}
+
+.material-symbols-outlined {
+  vertical-align: middle;   
+  padding-bottom: 2px;           
+}
